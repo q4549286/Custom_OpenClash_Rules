@@ -2,7 +2,8 @@
 # AUTHOR: Aethersailor
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # 强制直连列表
-
+# 自定义
+DOMAIN-SUFFIX,pages.dev
 # ImmortalWrt 在线更新
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
